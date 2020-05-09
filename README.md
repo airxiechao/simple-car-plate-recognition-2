@@ -8,4 +8,4 @@
 利用[derek285/generateCarPlate](https://github.com/derek285/generateCarPlate)这个车牌生成工具，稍微修改一下，生成训练用的车牌图片。修改后的代码在generateCarPlate文件夹，切换到这个文件夹，运行python genCarPlate.py 100 生成图片，图片在gen_res里面。用同样方法，再生成测试用的车牌图片，放在gen_res_val里面。
 
 ## 模型、训练、测试
-模型结构、训练方法、测试结果都在model.ipynb
+模型结构、训练方法、测试结果都在[model.ipynb](https://github.com/airxiechao/simple-car-plate-recognition-2/blob/master/model.ipynb)
